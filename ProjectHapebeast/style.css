@@ -1,0 +1,80 @@
+
+.header{
+
+   background-image: url(T3.png);  
+   background-repeat: no-repeat;
+   background-size: 100% 150%; 
+}
+body{
+	background-color: black;
+	
+}
+.üstsol{
+    color: #FFFFFF;   
+    font-size: 50px;
+    font-style: Monument Extended;
+    text-align: center;
+      
+}
+.hb{
+    color: #FC0F1D;
+ 	text-decoration: underline;
+ 	font-size: 58px;
+ 	font-weight: Ultrabold;
+}
+.slogan{
+    color: #F4F4F4;
+ 	text-align: center;
+ 	font-style: Monument Extended;
+ 	font-size: 20px;
+
+}
+#x{
+    margin-left: 4%;
+}
+#digi{
+    margin-left: 4%;
+}
+
+.article{
+	background: #333333;
+	border-radius: 10px;
+}
+.discordicon{
+	color: #FFFFFF;	
+	background: url("discord.png") no-repeat left;
+	background-size: 20px;
+	background-color: #333333;
+	font-style: italic;
+	text-align: center;
+	border-radius: 25px;
+	background-position: 3%;
+}
+.wishes{
+	color: #FFFFFF;
+	background-color: #333333;
+	border-radius: 25px;
+	font-style: italic;
+    width: 71%;
+}
+
+.white{
+	color: #FFFFFF;
+	margin-left: 40px;
+	font-size: 16px;
+    
+}
+
+.red{
+	color: #A02923;
+	margin-left: 40px;
+	font-size: 16px;
+}
+.btn{
+    margin-top: 1%;
+    width: 100%;
+ 	border-radius: 10px;
+    text-align: center;
+    font-style: Monument Extended;
+    font-size: 16px;
+}
